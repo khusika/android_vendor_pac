@@ -53,6 +53,9 @@ add_lunch_combo pac_d2att-userdebug
 add_lunch_combo pac_d2spr-userdebug
 add_lunch_combo pac_d2tmo-userdebug
 add_lunch_combo pac_d2vzw-userdebug
+add_lunch_combo pac_fortuna3g-userdebug
+add_lunch_combo pac_fortunatmo-userdebug
+add_lunch_combo pac_fortunave3g-userdebug
 add_lunch_combo pac_hlte-userdebug
 add_lunch_combo pac_hltetmo-userdebug
 add_lunch_combo pac_hltespr-userdebug
